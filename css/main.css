@@ -195,15 +195,6 @@ header .social li:first-child{
 
 
 /*		Hero section 		*/
-.hero{
-	display: block;
-	position: relative;
-	width: 100%;
-	height: 560px;
-	background: url('../img/hero.jpg') no-repeat fixed center center;
-	background-size: cover;
-	background-color: blue;
-}
 
 @media screen and (min-width: 500px) {
 	.hero{
@@ -221,7 +212,7 @@ header .social li:first-child{
 		position: relative;
 		width: 100%;
 		height: 560px;
-		background: url('../img/hero.jpg') no-repeat fixed center center;
+		background: url('../img/hero_small.jpg') no-repeat fixed center center;
 		background-size: cover;
 	}
 }
